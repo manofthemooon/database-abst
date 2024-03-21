@@ -23,6 +23,7 @@
   "author": "thirdsaintboy",
   "license": "MIT",
   "dependencies": {
-    "manofthemooon-clitool": "^1.0.0"
+    "manofthemooon-clitool": "^1.0.0",
+    "onedionys-database-abstraction-layer": "^1.0.1"
   }
 }
